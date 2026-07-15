@@ -1,0 +1,23 @@
+COMMERCIAL LICENSE AGREEMENT
+Product: Geoubugi Tower Defense Framework
+Licensor (Author): xenez
+
+By purchasing and/or downloading this Product, the Licensee (Buyer) agrees to the following terms and conditions:
+
+1. LICENSE GRANT
+The Licensor grants the Licensee a non-exclusive, non-transferable, limited license to use, modify, and run the Product within their own games/places on the Roblox platform.
+
+2. PERMITTED USES
+- Using the Product in personal or commercial Roblox games owned by the Licensee.
+- Modifying, rewriting, and adapting the codebase to fit the Licensee's game requirements.
+
+3. STRICT RESTRICTIONS
+- You are STRICTLY PROHIBITED from reselling, sublicensing, sharing, gifting, or distributing the original or modified source code to any third party.
+- You are STRICTLY PROHIBITED from uploading the codebase to public repositories (such as public GitHub repositories, forums, or open Discord channels).
+- You may not use this Product to create derivative commercial development tools, kits, or frameworks for sale.
+
+4. NO WARRANTY & LIABILITY
+The Product is provided "as is", without warranty of any kind. The Licensor is not liable for any bugs, security vulnerabilities, or game breaks caused by improper configuration or modifications made by the Licensee.
+
+5. TERMINATION & ENFORCEMENT
+Any violation of this agreement will result in the immediate termination of this license. The Licensor reserves the right to issue a DMCA Takedown request against any Roblox place utilizing the unauthorized code and revoke access to future updates.
